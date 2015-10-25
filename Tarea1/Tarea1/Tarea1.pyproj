@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="FuncionesNormalizacion.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Tarea1.py" />
   </ItemGroup>
   <PropertyGroup>
